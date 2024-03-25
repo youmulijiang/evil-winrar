@@ -15,7 +15,7 @@ python evil-winrar.py
 ## 使用截图
 
 ![1711375213586](image/readme/1711375213586.png)
-
+![1711375674339](image/readme/1711375674339.png)
 
 ## 作者介绍
 
